@@ -44,7 +44,7 @@
 ** Spring Boot
 ** MySQL
 
-## :hammer: Funcionalidades del proyecto
+## :hammer Funcionalidades del proyecto
 
 ## Autores
 
